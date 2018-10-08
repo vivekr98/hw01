@@ -9,6 +9,7 @@
 </center>
 
 ###Biography
+
 Hello! My name is Vivek Ramakrishnan and I am a third year at the college. I was born in Chicago but was raised mostly in the D.C. Metropolitan area. I'm really interested in computational approaches to evaluating policy, with a focus on crime and urban poverty. I really love painting, mountaineering, and exploring Chicago. I am currently on a mission to visit **every** Harold's Chicken in the city before I graduate. 
 
 I am fairly active on Twitter, so feel free to follow [my page](https://twitter.com/Vivek_r98)!
